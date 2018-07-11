@@ -1,4 +1,4 @@
-Hi! 👋
+BrowserHi! 👋
 
 You've opened the IDE Sandbox. 🎉
 
